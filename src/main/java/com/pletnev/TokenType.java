@@ -1,0 +1,5 @@
+package com.pletnev;
+
+public enum TokenType {
+    LEFT_BRACKET,RIGHT_BRACKET,PLUS,MINUS,MUL,DIV,NUMBER,EOF,COMMA,VARIABLE,FUNCTION
+}
